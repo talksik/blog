@@ -39,9 +39,9 @@ Now, while I know the inputs that I could work on (interview prep, communication
 
 I won't be the best in the world at that, even if I may be the top million. I don't want to be the best in the world at `Software Engineer, Components Test`. That's a game I don't want to play. Getting pulled into games like these is not fascinating to me. I have to take big swings, because money comes and goes, but time depletes.
 
-I have NOT been doing: software engineering for enterprise companies, leetcode, courses on low level systems, etc. So I shouldn't expect much for these highly-sought after roles. I HAVE been doing: reading about startups, philosophy, worldview, digital communications. As crazy as it sounds, I have equivalent chances of doing other roles (business, product) or building a startup.
+I have NOT been doing: software engineering for enterprise companies, leetcode, courses on low level systems, etc. So I shouldn't expect much for these highly sought-after roles. I HAVE been doing: reading about startups, philosophy, worldview, digital communications. As crazy as it sounds, I have equivalent chances of doing other roles (business, product) or building a successful startup.
 
 ## Next steps
-Focus on something that I can be the best in the world at. Work at it every day. Move methodically, think big. Think long term. That is rare in today's world. These principles I have learned from mentors throughout the years is my advantage.
+Focus on something that I can be the best in the world at. Work at it every day. Move methodically, think big. Think long term. That is rare in today's world. The principles and mental models I have learned throughout the years are my advantage.
 
 Always remember the story of the WhatsApp founders: they were rejected for jobs at Facebook, so they built WhatsApp, and that cost Facebook $19 billion.
