@@ -1,6 +1,6 @@
 # "How you do one thing is the way you do everything."
 
-I remember hearing this from a video of [Sam Ovens](https://www.youtube.com/watch?v=wmFCs4ZFuOk&ab_channel=SamOvens).
+I remember hearing this from a [video from Sam Ovens](https://www.youtube.com/watch?v=wmFCs4ZFuOk&ab_channel=SamOvens).
 
 The way your room and bed looks is how your brain looks.
 
