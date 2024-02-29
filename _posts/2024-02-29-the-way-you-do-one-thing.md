@@ -15,4 +15,4 @@ If you are used to multi-tasking and not focusing (you eat while watching TV), t
 ## Corollary - on finishing things
 If you have a habit of not completely listening to a song, then you will never finish a project.
 
-I have found this to be a common problem.
+I have found this to be a common problem for myself and others around me. The root cause is not obvious, but I this post suggests a likely victim.
