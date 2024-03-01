@@ -33,7 +33,7 @@ Our brains aren't meant to handle 100s of notifications from 20 different active
 
 To change the foundational structures of a building, you must tear down the building and re-build.
 
-To design something that is `low cognitive load`, we have to focus intensely on the principle of "less is more". The fastest way to make your boat go faster is to make it lighter.
+To design something that is `low cognitive load`, we have to focus intensely on the principle of "less is more". **The fastest way to make your boat go faster is to make it lighter.**
 
 We also have to obsess over making communication human to human; without the pattern of "go to some other place to post, notify, and repeat". The idea is to reduce `latency`, and in this case we are talking about `thought to conversation latency`. This is how seamlessly we can take someone who has a thought and who they want to converse with to a real conversation, whether async or sync. In other words, it should feel like the other person is right there.
 
