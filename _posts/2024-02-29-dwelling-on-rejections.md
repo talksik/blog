@@ -45,7 +45,7 @@ Dwelling on outputs will drive you insane. Focus on the inputs. When you objecti
 
 Now, while I know the inputs that I could work on (interview prep, communication, operating systems course, algorithms course), I know that I am not meant to go down that rabbit hole.
 
-I won't be the best in the world at that, even if I may be the top million. I don't want to be the best in the world at `Software Engineer, Components Test`. That's a game I don't want to play. Getting pulled into games like these is not fascinating to me. I have to take big swings, because money comes and goes, but time depletes.
+I won't be the best in the world at that, even if I may be the top 1%. I don't want to be the best in the world at `Software Engineer, Components Test`. That's a game I don't want to play. Getting pulled into games like these is not fascinating to me. I have to take big swings, because money comes and goes, but time depletes.
 
 I have NOT been doing: software engineering for enterprise companies, leetcode, courses on low level systems, etc. So I shouldn't expect much for these highly sought-after roles. I HAVE been doing: reading about startups, philosophy, worldview, digital communications. As crazy as it sounds, I have equivalent chances of doing other roles (business, product) or building a successful startup.
 

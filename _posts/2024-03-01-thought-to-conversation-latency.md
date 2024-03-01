@@ -11,7 +11,7 @@ You can't particularly blame specific individuals for this, as they were consume
 
 As platforms get older and older, it becomes more and more difficult to change foundational patterns, technologies. People build on top of existing platforms with slight differences, but they fail to re-think the paradigms underpinnings their solutions.
 
-This is similar to what David Deutch explains when it comes to knowledge creation (a tangential but related concept): "..the good explanation is hard to vary. It’s hard to vary because it was hard to come by. It is hard to come by because the easy ones don’t explain much..._"Good explanations are hard to find, hard to vary, and falsifiable."_
+This is similar to what David Deutch explains when it comes to knowledge creation (a tangential but related concept): "..the good explanation is hard to vary. It’s hard to vary because it was hard to come by. It is hard to come by because the easy ones don’t explain much..._"Good explanations are hard to find, hard to vary, and falsifiable."_ See his chat with Naval [here](https://nav.al/david-deutsch).
 
 ### Let's get practical
 When it comes to digital communication, there is a conventional paradigm that has existed from radios to walkie-talkies to TV to the chat apps of today (iMessage, Slack, WhatsApp). And that is the concept of a "room" or "channel" or "conversation", each containing multiple "members", and having one feed of artifacts (text messages, links, videos, etc) in order.
