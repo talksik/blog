@@ -1,4 +1,10 @@
-# Dwelling on Rejections: SpaceX Anecdote
+---
+layout: post
+title: "Dwelling on Rejections: SpaceX Anecdote"
+tags: []
+---
+
+## Context
 
 A month ago, as I was starting to feel paralyzed in my own hardware project (flowy), I considered pursuing a job that I remember dreaming about when I was a teen: working on space technology, and particularly working for SpaceX. It is a different league in terms of places to work for world class engineers.
 
@@ -29,6 +35,8 @@ I was devastated for 12 hours, and then I started to see through my cognitive bi
 However, I realized at the end of the day that the universe has its ways or maybe it's the 1000 little things that really put the universe in a certain formation to lead to a result. Maybe it was the recruiter not feeling well and not liking my glasses, or one small statement I made during the presentation.
 
 **The point is you will never know.**
+
+---
 
 ## Lesson Learned
 It's important to remember that no one cares. Not the hiring manager, not the recruiter, not any of the interviewers. They are there and they will continue their work day after rejecting you.

@@ -1,5 +1,10 @@
-# "How you do one thing is the way you do everything."
+---
+layout: post
+title: "How you do one thing, is the way you do everything."
+tags: []
+---
 
+## Core Principle
 I remember hearing this from a [video from Sam Ovens](https://www.youtube.com/watch?v=wmFCs4ZFuOk&ab_channel=SamOvens).
 
 The way your room and bed looks is how your brain looks.
