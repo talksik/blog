@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thought to Conversation Latency"
+title: "Thought-to-conversation latency"
 tags: [flowy]
 ---
 

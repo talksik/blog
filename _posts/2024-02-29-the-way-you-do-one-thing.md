@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How you do one thing, is the way you do everything."
-tags: []
+tags: ["reflections"]
 ---
 
 ## Core Principle

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Dwelling on Rejections: SpaceX Anecdote"
-tags: []
+title: "Dwelling on rejections: SpaceX anecdote"
+tags: ["reflections"]
 ---
 
 ## Context
