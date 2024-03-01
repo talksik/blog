@@ -1,0 +1,3 @@
+- [ ] _configure tags in jekyll_
+- [ ] flowy: master plan
+- [ ] flowy: there are always reasons why it won't work
