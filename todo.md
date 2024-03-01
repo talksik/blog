@@ -1,4 +1,3 @@
 - [ ] _configure tags in jekyll_
 - [ ] flowy: master plan
-- [ ] flowy: there are always reasons why it won't work
-- [ ] people are dying for less; I'm dying for less. there is nothing good on my phone nor email.
+- [x] flowy: there are always reasons why it won't work. people are dying for less; I'm dying for less. there is nothing good on my phone nor email.
