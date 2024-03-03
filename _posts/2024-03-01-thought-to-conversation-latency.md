@@ -72,4 +72,4 @@ We also have to obsess over making communication human to human; without the pat
 
 By making digital communication as human and authentic as possible, you more effectively augment real life conversations and introduce a new paradigm.
 
-I shall add another article to explain a proposed protocol
+I shall add another article to explain a proposed protocol.
