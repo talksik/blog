@@ -1,1 +1,3 @@
-- [ ] flowy: master plan
+- [x] edit conversation latency
+- [ ] flowy: 90 day play
+- [ ] asceticism and stoicism
