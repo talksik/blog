@@ -9,7 +9,7 @@ Our vision is a world where people do **not** need all the apps, tabs, threads, 
 
 `We are making digital communication more human.`
 
-People shouldn't be breaking their necks to type all day on their phones or laptops.
+People shouldn't be breaking their necks to get to others on their phones or laptops. It should feel like your people are right there.
 
 ### Personal anecdote
 I hate my phone. I want to get away from screens. I hate all of the apps I have to manage to get to my people.
