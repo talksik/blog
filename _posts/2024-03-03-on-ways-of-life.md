@@ -21,7 +21,7 @@ Thus, there is no point in hanging onto anything, whether it's a material posses
 We are wired to evolve in the longer timeframe, and so living it daily is natural to us and fulfilling. Do not hang onto anything, otherwise you are slowing down your evolutionary process.
 
 ## You don't know the next moment
-You are always in for a surprise as Jiddhu Krishmamurti outlines in his [book (Freedom from the Known)] (https://www.amazon.com/Freedom-Known-Jiddu-Krishnamurti/dp/0060648082). You don't know the next moment, and you don't know the last moment (your perception of the last moment is in the current moment, and always has a slightly different nuanced feeling).
+You are always in for a surprise as Jiddhu Krishmamurti outlines in his book ([Freedom from the Known](https://www.amazon.com/Freedom-Known-Jiddu-Krishnamurti/dp/0060648082)). You don't know the next moment, and you don't know the last moment (your perception of the last moment is in the current moment, and always has a slightly different nuanced feeling).
 
 By extension, you don't even know what your neuropathways will signal in the next moment and what beliefs you will have in the future. Sometimes we think we have a solid system until it is broken by some new experience. Thus, always consider that the universe and your experience of every moment is in flux.
 
