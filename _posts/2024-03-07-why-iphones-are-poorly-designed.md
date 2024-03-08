@@ -4,12 +4,11 @@ title: "Why iPhones are poorly designed"
 ---
 
 ## Contrarian view
-In this post, I will propose a thought experiment and try to keep it concise.
+In this post, I will propose a thought experiment regarding digital communication.
 
-You see, smartphones and phones in general have the main goal of enabling `communication between humans`. Overtime, our devices have become utility devices, where `human to human commz` is last on the priority list.
+You see, the goal for smartphones was to enable `communication between humans`. Overtime, our devices have become utility devices, where `human to human commz` is last on the priority list.
 
 ### Breaking it down
-
 Think about how many steps it will take for you to get to your friend/coworker "Jimmy" with your iPhone.
 
 #### 1. Unlock your phone
@@ -38,6 +37,8 @@ The problem isn't you. It's **poor design:**
 - decision fatigue
 - context switching between different mediums
 - high friction/sluggish
+
+Apple (and the web world) has lost sight of what's important: making it feel like your people are right there. Everyone has been busy adding features (emojis, threads within threads, fanicer email clients) rather than building from first principles.
 
 _Have we just learned to live with it?_ I think so. What do you think?
 
