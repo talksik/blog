@@ -39,6 +39,8 @@ Released nirvana social mobile app to friends.
 ### February, March
 Couldn't stand living in Irvine, so moved to New York after finding a quick job at a YC NFT startup.
 
+Moved to Austin because I couldn't stand New York.
+
 ### April
 Quit the nft startup and joined Level.
 
