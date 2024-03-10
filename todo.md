@@ -1,3 +1,4 @@
 - [x] edit conversation latency
+- [x] asceticism and stoicism
 - [ ] flowy: 90 day play
-- [ ] asceticism and stoicism
+- [ ] life timeline
