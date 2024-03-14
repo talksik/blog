@@ -28,7 +28,7 @@ Here is the statement in [this video](https://www.youtube.com/watch?v=1LAPw2uSb2
 ### What does it mean?
 It's fascinating when looking at India. Despite their rapid growth, the quality of way in India is not particularly celebratory.
 
-The statement uncovers a fascinating way of thinking:
+The statement uncovers a _potential_ way of thinking among people of similar nations:
 - they don't learn from _the past_ because it was "karma"
 - _the present_ is just fine because God puts us exactly where we need to be
 - _the future_ is all up to the one and only, God
