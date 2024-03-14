@@ -16,7 +16,7 @@ In the Iskcon community, if you grow up in it, you accept almost every sort of i
 
 Very few dig deeper. No one questions it. I remember it like it was yesterday, I always had an icky feeling if I was about to say something radical or question some concensus. This is true in any community; when we lived in tribes, being a radical would get us beheaded. In the European countries in the past centuries, when someone went against the church, they were charged with heresy, and dealt with violently.
 
-Thus, our natural human instinct within a community is to protect the idealogies given to us.
+Thus, our natural human instinct within a community is to protect the idealogies given to us. We have evolved to not stand out.
 
 ## One clear prism: the most religous countries in the world
 I searched and searched for answers to many of my questions. Concepts from Sam Harris, Alan Watts, even saints in India like Sadhguru, Jiddhu Krishnamurthy, Thich Nhat Hanh's ideas in Buddhism.
