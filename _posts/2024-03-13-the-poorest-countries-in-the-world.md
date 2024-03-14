@@ -33,19 +33,19 @@ The statement uncovers a _potential_ way of thinking among people of similar nat
 - _the present_ is just fine because God puts us exactly where we need to be
 - _the future_ is all up to the one and only, God
 
-As I discussed, people will come up with varying "justifications" to circumstances of their people:
+As I discussed, people will come up with varying "justifications" to the circumstances of their people:
 - Muslims: Allah is testing our faith
-- Hindus: Bhagwan is mad at the people of India for breaking the rules of the scriptures. The scripture mentions this was to come in...
-- Hindus: this age is known as Kali Yuga. Life is meant to degrade. (_a pathetic and pessimistic view of the world_)
+- Hindus: Bhagwan is mad at the people of India for breaking the rules of the scriptures. The scripture mentions this was imminent.
+- Hindus: this age is known as Kali Yuga. The world is meant to gradually degrade. (_a pathetic and pessimistic view of the world_)
 
-_The list goes on, please let me know if you hear others._ Interesting thing is, if you are reading this, your first line of defence was either mentioned in my list, or it's very similar. Or you are now starting to see through the game.
+_The list goes on, please let me know if you have heard others._ Interesting thing is, if you are religious and reading this, your instinctive "justification" was either mentioned in my list, or it's very similar. Or you are now starting to see through the game.
 
 ## Disclaimer
 This analysis might sound derogatory and offensive; it has certainly shaken me to the core.
 
 Please do not misunderstand my message as proving this is a wrong way of life. See my ideas on [ways of life]({% post_url 2024-03-03-on-ways-of-life %}) to understand the nuance.
 
-Let me be clear, I am **not** against religion. I believe certain religious constructs provide order to society. I just worry about people who take on the abstracts ideas of religion as core strength and hope; it doesn't serve them and makes them weaker.
+Let me be clear, I am **not** against religion. I believe certain religious constructs provide order to society. I just worry about people who take on the abstract promises of religion as their core strength and hope in life; it doesn't serve them and makes them weaker.
 
 The organization they are a part of will continue accepting their money. Decades will pass, and they will realize they are the same person. Perhaps a little more articulate, and with endless religious social gatherings to attend; each providing emotional validation and comfort. _It's nothing but an escape from seeing what is._
 
