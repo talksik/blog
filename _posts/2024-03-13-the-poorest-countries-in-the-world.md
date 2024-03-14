@@ -52,5 +52,5 @@ The organization they are a part of will continue accepting their money. Decades
 ## My takeaways
 I am merely suggesting that one should avoid being blinded by emotional and religious beliefs. Seeing things as they are allows you to see your inputs. When you know and control your inputs, you can more easily control your outcomes.
 
-I'll leave you with a [great article](https://suryad.com/blog/high-agency/) I came across recently I came across recently on "agency" (or in my words, control). You can literally bend the planet, if your worldview allows it.
+I'll leave you with a [great article](https://suryad.com/blog/high-agency/) I came across recently on "agency" (or in my words, control). You can literally bend the planet, if your worldview allows it.
 
