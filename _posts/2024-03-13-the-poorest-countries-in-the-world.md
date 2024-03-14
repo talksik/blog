@@ -26,7 +26,7 @@ I have come to many worldviews that I will explain in posts in the future. Howev
 Here is the statement in [this video](https://www.youtube.com/watch?v=1LAPw2uSb28): "the **most religious countries** are some of the **poorest** in the world."
 
 ### What does it mean?
-It's fascinating when looking at India. Despite their rapid growth, the quality of way in India is not particularly celebratory.
+It's fascinating when looking at India. Despite their rapid growth, the quality of life in India for the masses is not particularly celebratory.
 
 The statement uncovers a _potential_ way of thinking among people of similar nations:
 - they don't learn from _the past_ because it was "karma"
