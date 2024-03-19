@@ -30,7 +30,7 @@ We believe less is more. Flowy is a natural, authentic way of getting to your pe
 ---
 
 ## Why it won't work
-There are always reasons why something won't work. However, the idea of this article portrays that the principles and vision behind flowy dominate any minor objections.
+**There are always reasons why something won't work.** However, the idea of this article portrays that the principles and vision behind flowy dominate any minor objections.
 
 It is important to stick to our conviction even if every other person doesn't understand our product or mission.
 
