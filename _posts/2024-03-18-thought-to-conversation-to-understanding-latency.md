@@ -5,8 +5,7 @@ tags: [flowy]
 ---
 
 ## Overview
-In [this post]({% post_url 2024-03-01-thought-to-conversation-latency.md
- %}), we covered thought-to-conversation latency.
+In [this post]({% post_url 2024-03-01-thought-to-conversation-latency %}), we covered thought-to-conversation latency.
 
 I left something very important out: **understanding**.
 
