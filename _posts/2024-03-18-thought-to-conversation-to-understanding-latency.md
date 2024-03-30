@@ -5,9 +5,10 @@ tags: [flowy]
 ---
 
 ## Overview
-In [this post]({% post_url 2024-03-03-on-ways-of-life %}), we covered thought to conversation latency.
+In [this post]({% post_url 2024-03-01-thought-to-conversation-latency.md
+ %}), we covered thought-to-conversation latency.
 
-I left out something very important: **understanding**.
+I left something very important out: **understanding**.
 
 ## Different mediums have different levels of effectiveness
 A worthy measure of effectiveness is understanding. Whether it is understanding what your spouse is actually saying, or what your boss wants you to do, understanding is the target in most scenarios.
