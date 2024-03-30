@@ -34,7 +34,7 @@ I see a huge disconnect between my friends and myself. I never ask my friends to
 
 They are focused on themselves and their immediate needs: get a job (whatever pays the most), get a house, get a car, get a family, save for that vacation. This is not wrong, but *we can't have too many of these people.*
 
-They get involved in silly games like social media status or salary negotiation optimization or who discovers the news earliest.
+They get involved in silly games like social media status or salary negotiation optimization or who discovers some news earliest or which credit card is the best for rent.
 
 The shift comes from realizing that if you are not going to (try to) build the new world, then who will? An 8 year old? An 80 year old?
 
