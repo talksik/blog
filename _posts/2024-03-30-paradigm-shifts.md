@@ -38,7 +38,7 @@ title: "Paradigm shifts"
 Paradigm shifts are endless. We take them for granted, but when you first felt them, you knew it was something special. It's not words, it's a feeling. It's a feeling that you can't describe, but you know it's something that will change the world.
 
 ## It's not "businesses"
-It's all layers of abstractions in society.
+Paradigm shifts happen at all layers of abstractions in society.
 
 ## How are they created?
 Who knows?
