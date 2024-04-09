@@ -24,6 +24,10 @@ It is the natural instincts of human conversation when someone calls your name b
 7. Processing & then replying when there is a gap in the conversation.
 8. Repeating 6-7 until the conversation fades with an affirmative "closer" (to be covered in a future post).
 
+You will notice that you do not control much of it. You don't know when you will slip into conversational flow. You don't even know what your responses will be because there is 0 latency and you make the conversation flow. Humans do not even predict how long a conversation will go on (see [Meetings are a construct]({% post_url 2024-03-30-meetings-are-a-construct.md %})).
+
+Try it. You do not control much. It's quite beautiful when we slip into _conversational flow._
+
 
 ### The rules of conversation
 In the book [How We Talk - The Inner Workings of Conversations](https://www.amazon.com/How-We-Talk-Workings-Conversation/dp/0465059945), there is an interesting element that is studiedabout conversations as distinct from the formal English language.
