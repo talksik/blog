@@ -23,3 +23,7 @@ Think of smartphones before the commonplace word of smartphones. Notion's block 
 
 ## Lesson learned
 Whether in product/service development, your output is an extension of you. People only understand that which is visible. They won't be able to listen to your deep psychological train of thought. That is why: **show, not tell.**
+
+
+_Edit: I found a tangential idea from an article from the 2000s:_
+[You can't tell anyone anything](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
